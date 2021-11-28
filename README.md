@@ -1,7 +1,7 @@
 <h3>aboutd me</h3>
 
 [-] I pretend to know python lol <br>
-[-] Currently learning C++ and how the hell CPUs work <br>
+[-] Currently learning C and how the hell CPUs work <br>
 [-] Currently working on a Dataverse API wrapper<br> <br>
 [![Protonbread is pro haker](https://github-readme-stats.vercel.app/api?username=protonbread&theme=dracula)](https://github.com/protonbread/github-readme-stats)
  
